@@ -1,0 +1,22 @@
+{
+  "name": "thm-js-misc-logic",
+  "version": "0.0.1",
+  "description": "some javascript Texas Hold'em misc logic",
+  "main": "texas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shengdoushi/thm-js-misc-logic.git"
+  },
+  "keywords": [
+    "texas"
+  ],
+  "author": "shengdoushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shengdoushi/thm-js-misc-logic/issues"
+  },
+  "homepage": "https://github.com/shengdoushi/thm-js-misc-logic"
+}
